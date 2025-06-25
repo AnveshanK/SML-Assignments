@@ -42,4 +42,4 @@ This repository contains from-scratch implementations of foundational algorithms
 
 ## 🧑‍🎓 Author
 
-[**Anveshan Khanna**](https://github.com/AnveshanKhanna)  
+[**Anveshan Khanna**](https://github.com/AnveshanK)  
